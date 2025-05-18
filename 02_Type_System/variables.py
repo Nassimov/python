@@ -5,7 +5,6 @@
 # Declaring a new variable called as `box`
 box = "Balloons"
 print(box)  # prints -> Balloons
-
 # Louis changes his mind, he now wants to pack crackers instead
 box = "Crackers"
 print(box)  # prints -> Crackers
